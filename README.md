@@ -40,3 +40,8 @@ eas build --platform android --profile development
 # ✔ Created keystore
 
 ```
+
+## 6. Lets' run it
+
+you can simply copy App.js to your project and adjust the code based on your needs
+
