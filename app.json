@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.fachrihawari.hck55agora"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "584ebfc4-ec5a-45c2-b9ee-7afb3f30beab"
+      }
+    },
+    "owner": "fachrihawari"
   }
 }
