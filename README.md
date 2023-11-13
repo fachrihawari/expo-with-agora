@@ -1,5 +1,7 @@
 # Agora Integration
 
+This readme aims to guide you to integrate agora to your project. So make sure you create/use existing expo project and follow below steps.
+
 
 ## 1. Install eas cli
 
